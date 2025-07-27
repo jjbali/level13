@@ -3,7 +3,7 @@ function (Ash, ItemData, Text, MathUtils, PlayerActionConstants, ItemVO) {
 
 	let ItemConstants = {
 		
-		PLAYER_DEFAULT_STORAGE: 10,
+		PLAYER_DEFAULT_STORAGE: 100,
 
 		DEFAULT_EQUIPMENT_ITEM_LEVEL: 50,
 		
